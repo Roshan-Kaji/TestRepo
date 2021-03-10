@@ -1,1 +1,2 @@
 This is the second file added in the list.
+Added new contents.
